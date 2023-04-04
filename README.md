@@ -1,2 +1,5 @@
 # hello-world
-I am learning hoe GitHub works. 
+I am learning how GitHub works. 
+##My name is Daniela Mansolino
+>I love music, **Star Wars**, cats and videogames.
+
